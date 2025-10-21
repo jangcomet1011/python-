@@ -30,7 +30,7 @@ print(test2.capitalize()) #문장의 첫글자만 대문자로
 
 print("*" * 30) 
 print("/".join(test2))
-print("*" * 30)
+print("*" * 30) 
 
 print(test2.find("am"))
 print(test2.find("q"))
